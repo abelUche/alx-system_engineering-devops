@@ -1,1 +1,2 @@
-tr AZ | tr ce
+#!/bin/bash
+tr 'A' 'Z' | tr 'c' 'e'
